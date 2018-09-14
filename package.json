@@ -1,0 +1,19 @@
+{
+  "name": "sdbitly",
+  "version": "1.0.0",
+  "description": "url shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/housker/urlShortener.git"
+  },
+  "author": "housker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/housker/urlShortener/issues"
+  },
+  "homepage": "https://github.com/housker/urlShortener#readme"
+}
